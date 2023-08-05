@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    font-size: 3rem;
+    position: relative;
+    padding-top: 4%;
+
+}
+.navbar{
+    position: relative;
+    padding-top: 7%;
+}
+.navbar-brand{
+    color: rgb(66, 66, 153);
+}
+.home{
+    position: absolute;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+#feature{
+    text-align: center;
+    position: relative;
+    padding: 3% 7%;
+    background: rgb(2, 45, 64);
+   
+}
+.set-rem{
+    color: #f91212;
+}
+.container-fluid{
+    text-align: center;
+  
+}
+.set-reminder{
+    padding: 3% 7%;
+}
+.form-inline{
+    font-size: xx-small;
+}
+.t-time{
+    text-align: center;
+}
+/* #card{
+    background: #9bc5e7;
+    padding: 5% 7%;
+    
+} */
+#reminderbt{
+    position: relative;
+    padding: 5% 20% 3%;
+}
+.footer-bt{
+    position: relative;
+    padding-top: 5px;
+}
+#para{
+    text-align: center;
+    position: relative;
+    padding-top:1px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
